@@ -81,3 +81,7 @@ body {
     opacity: 0.5;
     pointer-events: none;
 }
+
+small{
+    font-size: 0.5em
+}
